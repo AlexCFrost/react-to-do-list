@@ -1,0 +1,12 @@
+.all-list{
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.task-column{
+  margin: 5px;
+}
+
+button{
+  margin: 5px;
+}
